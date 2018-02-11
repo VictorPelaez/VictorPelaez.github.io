@@ -12,9 +12,9 @@ I am also technology enthusiastic and restless looking for new productive and ef
 
 Some of the frameworks and tools I usually work with:
 
-❏ Python as scripting language with its machine learning, visualization libraries, pandas, numpy, etc. Also R with some additional packages
-❏ Spark, Hive, Impala, Kafka, Elasticsearch, other Big Data/Hadoop/HDF-based tools
-❏ Jupyter, Zeppelin, Kibana, Tableau as BI and visualization frameworks
+* Python as scripting language with its machine learning, visualization libraries, pandas, numpy, etc. Also R with some additional packages
+* Spark, Hive, Impala, Kafka, Elasticsearch, other Big Data/Hadoop/HDF-based tools
+* Jupyter, Zeppelin, Kibana, Tableau as BI and visualization frameworks
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
