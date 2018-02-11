@@ -1,10 +1,10 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
-		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"slug": "coral-reef-optimization-algorithm",
+		"name": "Coral Reef Optimization algorithm (CRO)",
+		"image": "coral_repro.jpg",
+		"url": "https://github.com/VictorPelaez/coral-reef-optimization-algorithm",
+		"date": "November 2017",
+		"tags": ["Optimization algorithm", "Machine Learning", "Python"]
 	},
 ]
