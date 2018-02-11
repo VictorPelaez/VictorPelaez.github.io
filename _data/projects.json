@@ -2,7 +2,7 @@
 	{
 		"slug": "coral-reef-optimization-algorithm",
 		"name": "Coral Reef Optimization algorithm (CRO)",
-		"image": "coral_repro.jpg",
+		"image": "coral_repro_png.png",
 		"url": "https://github.com/VictorPelaez/coral-reef-optimization-algorithm",
 		"date": "November 2017",
 		"tags": ["Optimization algorithm", "Machine Learning", "Python"]
