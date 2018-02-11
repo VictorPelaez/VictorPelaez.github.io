@@ -7,7 +7,7 @@ github: https://github.com/VictorPelaez
 about: working on it
 #disqus_shortname: programming
 #google_analytics: UA-31048387-6
-avatar_url: /static/fot_sinbar.png
+avatar_url: /static/me.png
 
 enableTags: true
 tagarray: []
@@ -18,20 +18,10 @@ collections:
     permalink: /project/:path/
 
 social:
-    #- icon: fa-facebook
-    #  link: "https://www.facebook.com/tjamadar"
-    #- icon: fa-twitter
-    #  link: "https://twitter.com/tmjam3011"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/victormpelaez/"
-    # - icon: fa-stack-exchange
-    #   link: "#"
     - icon: fa-github
       link: "https://github.com/victorpelaez"
-
-share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -40,10 +30,8 @@ urls:
       url: /projects/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
-# url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+
+url: "https://VictorPelaez.github.io/VictorPelaez-blog"
 baseurl: ""
 paginate: 20
 per_page: 20
