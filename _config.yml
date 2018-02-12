@@ -1,5 +1,5 @@
 title: Victor Manuel Peláez
-description: Stuff that I come across and find interesting.
+description: Descriptiom
 author: Victor Manuel Peláez
 email: victor.m.pelaez@outlook.com
 phone: (+34) 647788580
@@ -22,12 +22,12 @@ social:
       link: "https://www.linkedin.com/in/victormpelaez/"
     - icon: fa-github
       link: "https://github.com/victorpelaez"
-    - icon: fa-external-link-square
+    - icon: fa-chart-area
       link: "https://www.kaggle.com/victormanuelpelaez"
 
 share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+  # twitter_username: 
+  # fb_appid: 
 
 urls:
     - text: About Me
