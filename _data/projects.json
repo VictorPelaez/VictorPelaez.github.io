@@ -10,8 +10,6 @@
 	{
 		"slug": "spanish-energy-consumption-forecast",
 		"name": "Spanish Energy Consumption Forecast",
-		#"image": "coral_repro_png.png",
-		#"url": "https://github.com/VictorPelaez/coral-reef-optimization-algorithm",
 		"date": "February 2017",
 		"tags": ["Machine Learning", "Forecasting", "API", "Spark", "Real time processing"]
 	},
