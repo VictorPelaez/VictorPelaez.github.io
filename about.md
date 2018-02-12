@@ -20,5 +20,4 @@ Some of the frameworks and tools I usually work with:
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="
-https://drive.google.com/file/d/1K2kQxRUEx_h7Fr-iuU-k_ZBVwD4uFm-B/pub?embedded=true" width="100%" height="900"></iframe>                                                                                                           
+<iframe src="https://drive.google.com/file/d/1K2kQxRUEx_h7Fr-iuU-k_ZBVwD4uFm-B/" width="100%" height="900"></iframe>
